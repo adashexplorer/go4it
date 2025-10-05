@@ -5,6 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/adashexplorer/Go4it)
+![Go4it Banner](./Go4it.png)
 
 ---
 
