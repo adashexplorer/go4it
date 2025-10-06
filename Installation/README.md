@@ -19,11 +19,11 @@ go version go1.23.2 darwin/arm64
 If not, follow the steps below 👇
 
 ## 💿 2️⃣ Install Go on macOS
-### 🪄 Option 1 — Official Installer (Recommended) <br>
-	1.	Visit https://go.dev/dl/ <br>
-	2.	Download the macOS .pkg installer <br>
-	    •	Choose ARM64 for Apple Silicon (M1/M2/M3) <br>
-	    •	Choose AMD64 for Intel Macs <br>
+### 🪄 Option 1 — Official Installer (Recommended)
+	1.	Visit https://go.dev/dl/
+	2.	Download the macOS .pkg installer
+	    •	Choose ARM64 for Apple Silicon (M1/M2/M3)
+	    •	Choose AMD64 for Intel MacOS
 	3.	Run the installer — Go will be installed at:
   ```bash
     /usr/local/go
@@ -124,3 +124,4 @@ func main() {
 ```bash
    go run diagnostics.go
 ```
+
